@@ -1,0 +1,11 @@
+pandas
+torch
+numpy
+scikit-learn
+torch_geometric
+tqdm
+unsloth
+peft
+transformers
+datasets
+trl

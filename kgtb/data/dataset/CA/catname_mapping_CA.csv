@@ -1,0 +1,290 @@
+Original_Catname,Mapped_Catname
+[{'url': '/categories/370'; 'name': 'Party'}],1
+[{'url': '/categories/425'; 'name': 'Disneyland Resort'}],2
+[{'url': '/categories/30'; 'name': 'Cineplex'}],3
+[{'url': '/categories/349'; 'name': 'Aviary'}],4
+[{'url': '/categories/128'; 'name': 'Bridge'}],5
+[{'url': '/categories/917'; 'name': 'Farmers Market'}],6
+[{'url': '/categories/448'; 'name': '24 Hour Fitness'}],7
+[{'url': '/categories/167'; 'name': 'Brewery / Microbrewery'}],8
+"[{'url': '/categories/902'; 'name': ""Ben & Jerry's""}]",9
+[{'url': '/categories/444'; 'name': 'In-N-Out Burger'}],10
+[{'url': '/categories/23'; 'name': 'Skyscraper'}],11
+[{'url': '/categories/39'; 'name': 'Regional / State Park'}],12
+[{'url': '/categories/114'; 'name': 'Lake & Pond'}],13
+[{'url': '/categories/170'; 'name': 'Warehouse & Industrial'}],14
+[{'url': '/categories/193'; 'name': 'Record Store'}],15
+[{'url': '/categories/81'; 'name': 'South American / Latin'}],16
+[{'url': '/categories/458'; 'name': 'Best Buy'}],17
+[{'url': '/categories/136'; 'name': 'Arts'}],18
+[{'url': '/categories/356'; 'name': 'Primates'}],19
+[{'url': '/categories/663'; 'name': 'Ice Skating'}],20
+[{'url': '/categories/159'; 'name': 'Sushi'}],21
+[{'url': '/categories/218'; 'name': 'Government'}],22
+[{'url': '/categories/363'; 'name': 'Chipotle'}],23
+[{'url': '/categories/161'; 'name': 'Vegetarian / Vegan'}],24
+[{'url': '/categories/34'; 'name': 'Thrift Store'}],25
+[{'url': '/categories/16'; 'name': 'American'}],26
+[{'url': '/categories/97'; 'name': 'Saloon'}],27
+"[{'url': '/categories/436'; 'name': ""McDonald's""}]",28
+[{'url': '/categories/28'; 'name': 'Dive Bar'}],29
+[{'url': '/categories/126'; 'name': 'Courthouse'}],30
+[{'url': '/categories/927'; 'name': 'Vietnamese'}],31
+[{'url': '/categories/180'; 'name': 'Candy Store'}],32
+[{'url': '/categories/350'; 'name': 'Bears'}],33
+[{'url': '/categories/164'; 'name': 'Subway'}],34
+[{'url': '/categories/661'; 'name': 'Department Store'}],35
+[{'url': '/categories/57'; 'name': 'Other - Travel & Lodging'}],36
+[{'url': '/categories/33'; 'name': 'Zoo'}],37
+[{'url': '/categories/1'; 'name': 'Coffee Shop'}],38
+[{'url': '/categories/361'; 'name': 'Doughnuts'}],39
+[{'url': '/categories/188'; 'name': 'Gallery'}],40
+[{'url': '/categories/207'; 'name': 'Museum'}],41
+[{'url': '/categories/46'; 'name': 'Bus Station'}],42
+[{'url': '/categories/459'; 'name': 'Nordstrom'}],43
+[{'url': '/categories/362'; 'name': 'Wine & Spirits'}],44
+[{'url': '/categories/387'; 'name': 'Concert'}],45
+[{'url': '/categories/201'; 'name': 'Drugstore & Pharmacy'}],46
+[{'url': '/categories/456'; 'name': 'Sonic'}],47
+[{'url': '/categories/29'; 'name': 'Condo'}],48
+[{'url': '/categories/406'; 'name': 'AT&T'}],49
+[{'url': '/categories/52'; 'name': 'Modern Art Museum'}],50
+[{'url': '/categories/904'; 'name': 'Costco'}],51
+[{'url': '/categories/113'; 'name': 'Big Blue Wet Thing'}],52
+[{'url': '/categories/214'; 'name': 'Garden'}],53
+[{'url': '/categories/373'; 'name': 'Meet Up'}],54
+[{'url': '/categories/18'; 'name': 'Asian Food'}],55
+[{'url': '/categories/413'; 'name': 'Other Sports'}],56
+[{'url': '/categories/239'; 'name': 'Accessories'}],57
+[{'url': '/categories/26'; 'name': 'Ultra-lounge'}],58
+[{'url': '/categories/84'; 'name': 'African'}],59
+[{'url': '/categories/213'; 'name': 'Planetarium'}],60
+[{'url': '/categories/20'; 'name': 'Apartment'}],61
+[{'url': '/categories/36'; 'name': 'Technology'}],62
+[{'url': '/categories/91'; 'name': 'Antiques'}],63
+[{'url': '/categories/160'; 'name': 'Indian'}],64
+[{'url': '/categories/450'; 'name': 'American Apparel'}],65
+[{'url': '/categories/223'; 'name': 'Basketball Court'}],66
+[{'url': '/categories/225'; 'name': 'Gate'}],67
+[{'url': '/categories/85'; 'name': 'Pan Pacific'}],68
+[{'url': '/categories/468'; 'name': 'Verizon'}],69
+[{'url': '/categories/124'; 'name': 'Diner'}],70
+[{'url': '/categories/110'; 'name': 'Bakery'}],71
+[{'url': '/categories/359'; 'name': 'Other - Zoo'}],72
+[{'url': '/categories/88'; 'name': 'Victorian'}],73
+[{'url': '/categories/19'; 'name': 'Italian'}],74
+[{'url': '/categories/470'; 'name': 'FedEx Office'}],75
+[{'url': '/categories/662'; 'name': 'Arena'}],76
+[{'url': '/categories/389'; 'name': 'InterContinental Hotel'}],77
+[{'url': '/categories/77'; 'name': 'Casino'}],78
+[{'url': '/categories/414'; 'name': 'Golf Shop'}],79
+[{'url': '/categories/200'; 'name': 'Hardware Store'}],80
+[{'url': '/categories/445'; 'name': 'LEGO Store'}],81
+[{'url': '/categories/152'; 'name': 'High School'}],82
+"[{'url': '/categories/439'; 'name': ""Peet's Coffee""}]",83
+[{'url': '/categories/931'; 'name': 'Tennis Court'}],84
+[{'url': '/categories/109'; 'name': 'Tobacco & Cigars'}],85
+[{'url': '/categories/212'; 'name': 'Science Museum'}],86
+[{'url': '/categories/64'; 'name': 'Other - Food '}],87
+[{'url': '/categories/471'; 'name': 'UPS'}],88
+[{'url': '/categories/354'; 'name': 'Lions'}],89
+[{'url': '/categories/184'; 'name': 'Temple'}],90
+[{'url': '/categories/235'; 'name': 'Post Office'}],91
+[{'url': '/categories/226'; 'name': 'Tram'}],92
+"[{'url': '/categories/238'; 'name': ""Children's Apparel""}]",93
+[{'url': '/categories/386'; 'name': 'Pool / Waterpark'}],94
+[{'url': '/categories/219'; 'name': 'Gondola'}],95
+[{'url': '/categories/237'; 'name': 'Soul Food'}],96
+[{'url': '/categories/209'; 'name': 'Farm'}],97
+[{'url': '/categories/47'; 'name': 'Modern Hotel'}],98
+[{'url': '/categories/460'; 'name': 'Barnes & Noble'}],99
+[{'url': '/categories/435'; 'name': 'REI'}],100
+[{'url': '/categories/908'; 'name': 'Chocolate'}],101
+[{'url': '/categories/102'; 'name': 'Library'}],102
+[{'url': '/categories/67'; 'name': 'Wings'}],103
+[{'url': '/categories/433'; 'name': 'Starbucks'}],104
+[{'url': '/categories/151'; 'name': 'Trade/Tech School'}],105
+[{'url': '/categories/176'; 'name': 'Canal / Waterway'}],106
+[{'url': '/categories/156'; 'name': 'Capitol Building'}],107
+[{'url': '/categories/123'; 'name': 'Breakfast'}],108
+[{'url': '/categories/474'; 'name': 'Urban Outfitters'}],109
+[{'url': '/categories/232'; 'name': 'Conference'}],110
+[{'url': '/categories/15'; 'name': 'Mexican'}],111
+[{'url': '/categories/407'; 'name': 'Four Seasons'}],112
+[{'url': '/categories/242'; 'name': 'Movie Rental'}],113
+[{'url': '/categories/55'; 'name': 'Other - Parks '}],114
+[{'url': '/categories/59'; 'name': 'Other - Art & Culture'}],115
+[{'url': '/categories/157'; 'name': 'Vineyard'}],116
+[{'url': '/categories/926'; 'name': 'Thai'}],117
+[{'url': '/categories/50'; 'name': 'Traditional Art Museum'}],118
+[{'url': '/categories/89'; 'name': 'Craftsman'}],119
+[{'url': '/categories/393'; 'name': 'Disc Golf Course'}],120
+[{'url': '/categories/40'; 'name': 'Nature Preserve'}],121
+[{'url': '/categories/440'; 'name': 'Coffee Bean and Tea Leaf'}],122
+[{'url': '/categories/31'; 'name': 'Performing Arts'}],123
+[{'url': '/categories/391'; 'name': 'Soccer Field'}],124
+[{'url': '/categories/44'; 'name': 'Motel'}],125
+[{'url': '/categories/98'; 'name': 'Mediterranean'}],126
+[{'url': '/categories/125'; 'name': 'City Hall'}],127
+[{'url': '/categories/139'; 'name': 'Dormitory'}],128
+[{'url': '/categories/392'; 'name': 'Bike Shop'}],129
+[{'url': '/categories/913'; 'name': 'Frozen Yogurt'}],130
+[{'url': '/categories/241'; 'name': 'Bar'}],131
+[{'url': '/categories/211'; 'name': 'Skatepark'}],132
+[{'url': '/categories/37'; 'name': 'Playground'}],133
+[{'url': '/categories/240'; 'name': 'Shoes'}],134
+[{'url': '/categories/48'; 'name': 'Resort'}],135
+[{'url': '/categories/202'; 'name': 'Discount Store'}],136
+[{'url': '/categories/153'; 'name': 'Other - College & Education'}],137
+"[{'url': '/categories/222'; 'name': ""Women's Apparel""}]",138
+[{'url': '/categories/190'; 'name': 'Dentist'}],139
+[{'url': '/categories/234'; 'name': 'Special Event'}],140
+[{'url': '/categories/137'; 'name': 'Aquatics'}],141
+[{'url': '/categories/380'; 'name': 'Holiday Inn Express'}],142
+[{'url': '/categories/54'; 'name': 'Other - Shopping'}],143
+[{'url': '/categories/83'; 'name': 'Middle Eastern'}],144
+[{'url': '/categories/112'; 'name': 'Music'}],145
+[{'url': '/categories/100'; 'name': 'Steakhouse'}],146
+[{'url': '/categories/90'; 'name': 'Modern'}],147
+[{'url': '/categories/378'; 'name': 'Hotel Indigo'}],148
+[{'url': '/categories/177'; 'name': 'Karaoke'}],149
+[{'url': '/categories/38'; 'name': 'City Park'}],150
+[{'url': '/categories/68'; 'name': 'Contemporary Church'}],151
+[{'url': '/categories/96'; 'name': 'Bookstore'}],152
+[{'url': '/categories/116'; 'name': 'Pavilion'}],153
+[{'url': '/categories/49'; 'name': 'Luxury Hotel'}],154
+[{'url': '/categories/80'; 'name': 'Dessert'}],155
+[{'url': '/categories/87'; 'name': 'Duplex'}],156
+[{'url': '/categories/41'; 'name': 'National Park'}],157
+[{'url': '/categories/182'; 'name': 'Fire Station'}],158
+[{'url': '/categories/462'; 'name': 'AMC Theatre'}],159
+[{'url': '/categories/155'; 'name': 'Pizza'}],160
+"[{'url': '/categories/451'; 'name': ""Victoria's Secret""}]",161
+[{'url': '/categories/62'; 'name': 'Toys & Games'}],162
+[{'url': '/categories/465'; 'name': 'H&M'}],163
+[{'url': '/categories/99'; 'name': 'Beach'}],164
+[{'url': '/categories/217'; 'name': 'Other - Services'}],165
+"[{'url': '/categories/221'; 'name': ""Men's Apparel""}]",166
+[{'url': '/categories/347'; 'name': 'Tattoo Parlor'}],167
+[{'url': '/categories/394'; 'name': 'Nike'}],168
+[{'url': '/categories/43'; 'name': 'Antique Hotel'}],169
+[{'url': '/categories/199'; 'name': 'Hotel'}],170
+[{'url': '/categories/35'; 'name': 'Apparel'}],171
+[{'url': '/categories/119'; 'name': 'Gas & Automotive'}],172
+[{'url': '/categories/230'; 'name': 'Apple Store'}],173
+[{'url': '/categories/454'; 'name': 'Subway'}],174
+[{'url': '/categories/189'; 'name': 'Tacos'}],175
+[{'url': '/categories/17'; 'name': 'BBQ'}],176
+[{'url': '/categories/82'; 'name': 'French'}],177
+[{'url': '/categories/185'; 'name': 'Castle'}],178
+[{'url': '/categories/76'; 'name': 'Aquarium'}],179
+[{'url': '/categories/141'; 'name': 'Hall'}],180
+[{'url': '/categories/457'; 'name': 'Burger King'}],181
+[{'url': '/categories/197'; 'name': 'Chalet'}],182
+[{'url': '/categories/60'; 'name': 'Other - Architecture'}],183
+[{'url': '/categories/65'; 'name': 'Church'}],184
+[{'url': '/categories/74'; 'name': 'Arcade'}],185
+[{'url': '/categories/172'; 'name': 'Ferry'}],186
+[{'url': '/categories/69'; 'name': 'Mission'}],187
+[{'url': '/categories/228'; 'name': 'Other - Airport'}],188
+[{'url': '/categories/243'; 'name': 'Convention Center'}],189
+[{'url': '/categories/473'; 'name': 'Gap'}],190
+[{'url': '/categories/18'; 'name': 'Asian'}],191
+[{'url': '/categories/154'; 'name': 'Burgers'}],192
+[{'url': '/categories/53'; 'name': 'Furniture'}],193
+[{'url': '/categories/187'; 'name': 'Hot Dogs & Sausages'}],194
+dummy,195
+[{'url': '/categories/86'; 'name': 'Seafood'}],196
+[{'url': '/categories/73'; 'name': 'History Museum'}],197
+[{'url': '/categories/117'; 'name': 'Salon & Barbershop'}],198
+[{'url': '/categories/142'; 'name': 'Lab'}],199
+[{'url': '/categories/143'; 'name': 'Rec Center'}],200
+[{'url': '/categories/105'; 'name': 'Scenic Lookout'}],201
+[{'url': '/categories/22'; 'name': 'Historic Church'}],202
+[{'url': '/categories/58'; 'name': 'Other - Entertainment'}],203
+[{'url': '/categories/61'; 'name': 'Sports & Outdoors'}],204
+[{'url': '/categories/365'; 'name': 'Veterinarian'}],205
+[{'url': '/categories/71'; 'name': 'Synagogue'}],206
+[{'url': '/categories/388'; 'name': 'Crowne Plaza'}],207
+[{'url': '/categories/166'; 'name': 'Historic Landmark'}],208
+[{'url': '/categories/11'; 'name': 'Mall'}],209
+[{'url': '/categories/905'; 'name': 'Dairy Queen'}],210
+[{'url': '/categories/204'; 'name': 'Other - Street Fare'}],211
+[{'url': '/categories/115'; 'name': 'River & Stream'}],212
+[{'url': '/categories/145'; 'name': 'Student Center'}],213
+[{'url': '/categories/181'; 'name': 'Cave'}],214
+[{'url': '/categories/236'; 'name': 'Fine Dining'}],215
+[{'url': '/categories/131'; 'name': 'Ski & Snowboard Area'}],216
+[{'url': '/categories/132'; 'name': 'Hospital'}],217
+[{'url': '/categories/903'; 'name': 'Chick-fil-A'}],218
+[{'url': '/categories/434'; 'name': 'IKEA'}],219
+[{'url': '/categories/422'; 'name': 'Whole Foods'}],220
+[{'url': '/categories/94'; 'name': 'Light Rail'}],221
+[{'url': '/categories/464'; 'name': 'Walgreens'}],222
+[{'url': '/categories/173'; 'name': 'Pet Store'}],223
+[{'url': '/categories/364'; 'name': 'Dog Park'}],224
+[{'url': '/categories/210'; 'name': 'Other - Medical'}],225
+[{'url': '/categories/25'; 'name': 'Dancefloor'}],226
+[{'url': '/categories/121'; 'name': 'Corporate Office'}],227
+[{'url': '/categories/95'; 'name': 'Train Station'}],228
+[{'url': '/categories/78'; 'name': 'Racetrack'}],229
+[{'url': '/categories/360'; 'name': 'Gym'}],230
+[{'url': '/categories/446'; 'name': 'Walmart'}],231
+[{'url': '/categories/163'; 'name': 'Paper Goods'}],232
+[{'url': '/categories/353'; 'name': 'Hippos'}],233
+[{'url': '/categories/101'; 'name': 'Sandwich Shop'}],234
+[{'url': '/categories/75'; 'name': 'Theme Park'}],235
+[{'url': '/categories/147'; 'name': 'Law School'}],236
+[{'url': '/categories/227'; 'name': 'Rental Car'}],237
+[{'url': '/categories/171'; 'name': 'Tea Room'}],238
+[{'url': '/categories/138'; 'name': 'Campus Commons'}],239
+"[{'url': '/categories/442'; 'name': ""Lowe's""}]",240
+[{'url': '/categories/357'; 'name': 'Tigers'}],241
+[{'url': '/categories/162'; 'name': 'Cemetery'}],242
+[{'url': '/categories/438'; 'name': 'Target'}],243
+[{'url': '/categories/453'; 'name': 'Banana Republic'}],244
+[{'url': '/categories/148'; 'name': 'Medical School'}],245
+[{'url': '/categories/146'; 'name': 'Tower'}],246
+"[{'url': '/categories/192'; 'name': ""Doctor's Office""}]",247
+[{'url': '/categories/103'; 'name': 'Theatre'}],248
+[{'url': '/categories/63'; 'name': 'Monument'}],249
+[{'url': '/categories/220'; 'name': 'Summit'}],250
+[{'url': '/categories/455'; 'name': 'Krispy Kreme'}],251
+[{'url': '/categories/165'; 'name': 'Plaza / Square'}],252
+[{'url': '/categories/420'; 'name': 'Crafts & Creative'}],253
+[{'url': '/categories/27'; 'name': 'Wine Bar'}],254
+[{'url': '/categories/416'; 'name': 'Camping & Outdoors'}],255
+[{'url': '/categories/56'; 'name': 'Other - Nightlife '}],256
+[{'url': '/categories/229'; 'name': 'Flower Shop'}],257
+"[{'url': '/categories/437'; 'name': ""Trader Joe's""}]",258
+[{'url': '/categories/379'; 'name': 'Holiday Inn'}],259
+[{'url': '/categories/106'; 'name': 'Grocery'}],260
+[{'url': '/categories/224'; 'name': 'Terminal'}],261
+[{'url': '/categories/150'; 'name': 'Fountain'}],262
+[{'url': '/categories/93'; 'name': 'Hostel'}],263
+[{'url': '/categories/186'; 'name': 'Bank & Financial'}],264
+[{'url': '/categories/183'; 'name': 'Police Station'}],265
+[{'url': '/categories/21'; 'name': 'Home'}],266
+[{'url': '/categories/24'; 'name': 'Pub'}],267
+[{'url': '/categories/909'; 'name': 'Ice Cream'}],268
+[{'url': '/categories/134'; 'name': 'University'}],269
+[{'url': '/categories/45'; 'name': 'Airport'}],270
+[{'url': '/categories/390'; 'name': 'Soccer Stadium'}],271
+[{'url': '/categories/72'; 'name': 'Asian Art Museum'}],272
+[{'url': '/categories/32'; 'name': 'Live Music'}],273
+[{'url': '/categories/215'; 'name': 'Bowling'}],274
+[{'url': '/categories/79'; 'name': 'Stadium'}],275
+[{'url': '/categories/208'; 'name': 'Other - Place of Worship'}],276
+"[{'url': '/categories/441'; 'name': ""Seattle's Best""}]",277
+[{'url': '/categories/911'; 'name': 'Music'}],278
+[{'url': '/categories/135'; 'name': 'Administration'}],279
+[{'url': '/categories/106'; 'name': 'Food & Foodies'}],280
+[{'url': '/categories/92'; 'name': 'Bed & Breakfast'}],281
+[{'url': '/categories/216'; 'name': 'Lighthouse'}],282
+[{'url': '/categories/51'; 'name': 'Sculpture'}],283
+[{'url': '/categories/42'; 'name': 'Golf Course'}],284
+[{'url': '/categories/443'; 'name': 'The Home Depot'}],285
+[{'url': '/categories/149'; 'name': 'College'}],286
+[{'url': '/categories/118'; 'name': 'Health & Fitness'}],287
+[{'url': '/categories/452'; 'name': 'Old Navy'}],288
+[{'url': '/categories/130'; 'name': 'Sports Bar'}],289
